@@ -1,21 +1,21 @@
-## Hi there 👋
+# SnabbGET 🐐
 
-We are the
+<img src="https://github.com/SnabbGET/.github/blob/main/logo_small.png" alt="SnabbGET logo" />
 
-# SnabbGET team
+Hello there! Do you know SnabbGET? If you don't, let me introduce you to it...
 
-## What is *SnabbGET*?
+## What do we do? 🧐
 
-SnabbGET is a **graphic terminal emulator**.
-The SnabbGET repo is [here](https://github.com/SnabbGET/SnabbGET).
+We are actively working on our SnabbGET terminal project, wich is a terminal with a GUI. It means that you won't type any commands 
+(you will be able to do it actually but we don't really designed it for that).
 
-<!--
+## Why?
 
-**Here are some ideas to get you started:**
+SnabbGET guified terminal will be intuitive for beginners. 
+The idea of creating a terminal like that came out because we tought that it's pretty easy to be lost using a terminal, as a beginner.
+And we are mainly lost because we use commands, parameters...
+With our terminal, you won't be able to be lost! We will do our best to do the most beginner-friendly & easy to use terminal.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Contact us 🔗
+
+<a href="mailto:contact.snabbget@gmail.com">Our mail<a/>
