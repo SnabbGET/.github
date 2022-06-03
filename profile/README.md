@@ -1,6 +1,6 @@
 # SnabbGET 🐐
 
-<img src="https://github.com/SnabbGET/.github/blob/main/logo_small.png" alt="SnabbGET logo" />
+[![SnabbGET logo](https://github.com/SnabbGET/.github/blob/main/logo_small.png)](https://snabbget.github.io/)
 
 Hello there! Do you know SnabbGET? If you don't, let me introduce you to it...
 
@@ -18,4 +18,4 @@ With our terminal, you won't be able to be lost! We will do our best to do the m
 
 ## Contact us 🔗
 
-<a href="mailto:contact.snabbget@gmail.com">Our mail<a/>
+[Our mail](mailto:contact.snabbget@gmail.com)
