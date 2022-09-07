@@ -1,13 +1,17 @@
-# SnabbGET 🐐
+<h1 align="center">SnabbGET 🐐</h1>
 
-[![SnabbGET logo](https://github.com/SnabbGET/.github/blob/main/logo_small.png)](https://snabbget.github.io/)
+<p align="center">
+ <a href="https://snabbget.github.io/">
+  <img src="https://github.com/SnabbGET/.github/blob/main/logo_small.png" alt="SnabbGET logo">
+  </a>
+</p>
 
 Hello there! Do you know SnabbGET? If you don't, let me introduce you to it...
 
 ## What do we do? 🧐
 
 We are actively working on our SnabbGET terminal project, wich is a terminal with a GUI. It means that you won't type any commands 
-(you will be able to do it actually but we don't really designed it for that).
+(you will be able to do it but actually we don't really designed it for that).
 
 ## Why?
 
